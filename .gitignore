@@ -1,5 +1,6 @@
-## Ignore compiled Java files
+## Ignore compiled Java files and Python files
 *.class
+*.pyc
 
 vs/
 victorious_secret_old/
